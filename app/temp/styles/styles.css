@@ -1002,33 +1002,6 @@ a{
 
     }
 
-<<<<<<< HEAD
-.site-footer {
-
-    background-color: #2f5572;
-    color: #fff;
-    padding: .5rem 0;
-    text-align:center;
-
-}
-
-.site-footer__text {
-        display: block;
-        margin-bottom: 1rem;
-        font-weight: 200;
-    }
-
-@media (min-width: 800px){
-
-.site-footer__text {
-            display: inline;
-            margin-bottom: 0;
-            margin-right: 1.4rem
-    }
-=======
-/*Do not edit modules/_sprite directly as it is generated automatically by gilp.
- Instead modify sprite.css*/
-
 .icon {
             background-image: url('/assets/images/sprites/sprite-d675eadb.svg');
         }
@@ -1103,8 +1076,6 @@ a{
         width: 34.75px;
         height: 42px;
         background-position: 36.69752421959096% 45.792307692307695%;
->>>>>>> gulp-sprite
     }
-
 
 
